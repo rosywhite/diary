@@ -134,3 +134,7 @@ TL;DR of it is: if i get a comment or post about someone else's fantasy, i respe
 edit 2: 
 
 more updates in my dec 25, 2021 dear diary post ... i went through a breakup sadly but am not seeking to date people via ofans/the hub for security reasons, thanks for understanding. i really like this to be a diary expressing my fantasies with my lovers so thanks for understanding :)
+
+edit 3:
+
+chapter two has been going really well and i'm really thankful for my submissive :) his energy has made this possible :)

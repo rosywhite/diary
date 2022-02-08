@@ -23,3 +23,7 @@ Thanks for coming along for the ride!
 
 Love,
 Rosy
+
+edit 1:
+
+chapter two has been going really well and i'm really thankful for my submissive :) his energy has made this possible :)
