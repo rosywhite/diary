@@ -55,3 +55,5 @@ Here’s to romantic dreams of laying naked on beaches with my lover watching th
 
 love,
 rosy
+
+disclaimer from feb 20, 2022: I now work in the blockchain space and hope this is general enough that there is no conflict of interest.

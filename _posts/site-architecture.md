@@ -18,7 +18,7 @@ one of the first steps of a new code repository is the code license, either open
 
 I'm choosing a GPL license. YIKES! Lol... GPL licenses “infect” all code that uses it with free licenses, so you cannot get a proprietary license or patent I believe for code with GPL-licensed software in its tech stack.
 
-but i want to experiment with this perma-open-source blockchain code called Polkadot (DOT). I think it’s a utility of the internet, a protocol like HTTP (HyperText Transfer Protocol). it's infrastructure-- they call it a metaprotocol. i think it would be cool over the next months to live-code a decentralized app (dapp) with Polkadot and also a dapp connecting to Solana and also Shopify too :)
+i think it would be cool over the next months to live-code a decentralized app (dapp) connecting to different blockchains and also a Shopify app too :)
 
 In other words, it’s a decentralized business shop connected to Shopify (software portal secured by major banks) and two blockchains (like having double backup with two strands of DNA). It’s partly a decentralized business shop and partly a subreddit-type network. It’s a decentralized autonomous organization (DAO) built with subsocial/substrate/polkadot. announcing it in the public domain means i cannot patent it, but i cannot patent it anyway because i plan to build on top of GPL-infrastructure codebases
 
@@ -30,9 +30,7 @@ frontend: the latest stable in pure vanilla html and css. also javascript/react 
 
 database: postgreSQL, IPFS, Storj, Twilio, or cloud storage, etc.
 
-Polkadot stack: polkadot/substrate/subsocial/polkadot.js wallet
-
-Solana stack: solana/anchor/phantom
+blockchain tech stacks would be dApp tech stacks of whatever blockchain you wish
 
 such cool blockchain stuff going on these days :)
 
@@ -42,3 +40,5 @@ Excited to tinker around with some code :)
 
 Love,
 rosy
+
+disclaimer from feb 20, 2022: I now work in the blockchain space and hope this is general enough that there is no conflict of interest.
