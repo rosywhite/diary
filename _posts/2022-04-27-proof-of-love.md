@@ -1,7 +1,7 @@
 ---
 title: "proof of love :)"
 excerpt: "hopefully the full logical/emotional/practical proof of love is complete!"
-date: "2021-08-03"
+date: "2022-04-27"
 ---
 
 i wanted to write this right away, because after re-reading my last post, depending on how you read it, my tone may seem unclear and i don't want people to think i was feeling blame or anger while i was writing it. i was feeling love and compassion <3. i'm working on a simple definition of true love. we both tried so hard and i believe we were equally as selfless, equally as right. life strategy is really difficult
