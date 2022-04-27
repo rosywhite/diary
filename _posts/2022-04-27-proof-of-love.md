@@ -10,7 +10,7 @@ i think the six pillars is a good life strategy and i only created/discovered it
 
 a fair trade in true love is putting in equal pace and effort, but it's a more nuanced story. its the responsibility of both people to ensure a fair trade, not ever just the blame of one person. and i've been working too hard and workaholism i think is a pathology. i did not value the six pillars equally since i learned them. i valued wealth and power more trying to catch up. and a year of lagging on the wisdom/renunciation path can really make me do a lot of unconscious things and mistakes. i'm so sorry for the mistakes but i'm writing this in good spirits knowing that we've respected each other on a fundamental unconditional-love level 
 
-i know i can trust him because we were friends for so long before that. i know he's a good person who respects and loves me and means well. but even meaning well isn't enough. the strategy and mental models matter too :) 
+i know i can trust you because we've been friends for so long before dating. i know both of us try so hard to do the right thing and I know you love me and mean well. i think a lot of humans have dealt with the same struggles, that meaning well sometimes isn't enough. the strategy and mental models matter too :) 
 
 i just recorded a podcast-style audio clip explaining the six pillars, a simple definition of true love, the full proof of love, and its really not polished yet, so maybe i will get to make a video of it next month for youtube
 
