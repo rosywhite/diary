@@ -23,6 +23,18 @@ function HomePage() {
           alt="the garden"
           width={1920 / 2}
           height={1280 / 2}
+        />'  
+        <Image
+          src="/ape-manual-meta-flowchart.JPG"
+          alt="the garden"
+          width={1920 / 2}
+          height={1280 / 2}
+        />
+        <Image
+          src="/consciousness-observer-and-metabolism-mental-models.JPG"
+          alt="the garden"
+          width={1920 / 2}
+          height={1280 / 2}
         />
       </div>
     </>
