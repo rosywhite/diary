@@ -26,15 +26,15 @@ function HomePage() {
         />'  
         <Image
           src="/ape-manual-meta-flowchart.JPG"
-          alt="see post"
-          width=640
-          height=960
+          alt="see more mental models post"
+          width={640}
+          height={960}
         />
         <Image
           src="/consciousness-observer-and-metabolism-mental-models.JPG"
-          alt="see post"
-          width=640
-          height=960
+          alt="see more mental models post"
+          width={640}
+          height={960}
         />
       </div>
     </>
