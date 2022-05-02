@@ -36,6 +36,24 @@ function HomePage() {
           width={640}
           height={960}
         />
+        <Image
+          src="/enlightenment-venn-diagram.jpg"
+          alt="tbd, sorry"
+          width={640}
+          height={960}
+        />'  
+        <Image
+          src="/six-pillars-description.jpg"
+          alt="tbd, sorry"
+          width={640}
+          height={960}
+        />
+        <Image
+          src="/the-elements.jpg"
+          alt="tbd, sorry"
+          width={640}
+          height={960}
+        />
       </div>
     </>
   )
