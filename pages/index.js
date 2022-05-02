@@ -26,31 +26,37 @@ function HomePage() {
         />'  
         <Image
           src="/ape-manual-meta-flowchart.JPG"
-          alt="see more mental models post"
+          alt="please read the post entitled: more mental models "
           width={640}
           height={960}
         />
         <Image
           src="/consciousness-observer-and-metabolism-mental-models.JPG"
-          alt="see more mental models post"
+          alt="please read the post entitled: more mental models"
           width={640}
           height={960}
         />
         <Image
           src="/enlightenment-venn-diagram.jpg"
-          alt="tbd, sorry"
+          alt="please read the post entitled: three info diagram pics added to home page"
           width={640}
           height={960}
         />'  
         <Image
           src="/six-pillars-description.jpg"
-          alt="tbd, sorry"
+          alt="please read the post entitled: three info diagram pics added to home page"
           width={640}
           height={960}
         />
         <Image
           src="/the-elements.jpg"
-          alt="tbd, sorry"
+          alt="please read the post entitled: three info diagram pics added to home page"
+          width={640}
+          height={960}
+        />
+        <Image
+          src="/inputs-and-runtimes.jpg"
+          alt="two runtimes modeled are consciousness and the metabolism"
           width={640}
           height={960}
         />
