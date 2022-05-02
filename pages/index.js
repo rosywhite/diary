@@ -55,7 +55,7 @@ function HomePage() {
           height={960}
         />
         <Image
-          src="/inputs-and-runtimes.jpg"
+          src="/inputs-and-runtimes.JPG"
           alt="two runtimes modeled are consciousness and the metabolism"
           width={640}
           height={960}
